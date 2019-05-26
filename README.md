@@ -1,5 +1,5 @@
 # Xiph-iOS-Static-Libs
-Compiled static fat libraries for libopus/libopus/libspeexdsp for iOS including headers.
+Compiled static fat libraries for libopus/libopusenc/libspeexdsp for iOS including headers.
 
 Static fat libs work for all archs including i386 x86_64 armv7 armv7s arm64 (simulator/real device/etc).
 
