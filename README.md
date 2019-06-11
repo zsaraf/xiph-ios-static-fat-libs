@@ -1,4 +1,4 @@
-# iOS Fat Static Libs for LibOpus/LibOpusEnc/LibSpeexDSP/LibShout/LibOgg/LibVorbis
+# iOS Fat Static frameworks for all XIPH open source libs
 Compiled static fat libraries for libopus/libopusenc/libspeexdsp/libshout/libogg/libvorbis for iOS including headers.
 
 Static fat libs work for all archs including i386 x86_64 armv7 armv7s arm64 (simulator/real device/etc).
